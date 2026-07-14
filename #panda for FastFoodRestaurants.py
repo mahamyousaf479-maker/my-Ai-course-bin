@@ -1,4 +1,4 @@
-#panda for FastFoodRestaurants
+#pandas for FastFoodRestaurants
 import pandas as pd
 
 df =pd.read_csv('FastFoodRestaurants.csv', delimiter=(','))

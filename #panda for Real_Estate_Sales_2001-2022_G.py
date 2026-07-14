@@ -1,4 +1,4 @@
-#panda for Real_Estate_Sales_2001-2022_GL-Short.csv
+#pandas for Real_Estate_Sales_2001-2022_GL-Short.csv
 import pandas as pd
 
 df =pd.read_csv('Real_Estate_Sales_2001-2022_GL-Short.csv', delimiter=(','))
