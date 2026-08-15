@@ -1,6 +1,6 @@
 DataTechniquesAI/README.md
  Typing SVG
-LinkedIn GitHub followers Fiverr Instagram
+LinkedIn GitHub followers Fiverr 
 
 🧠 About Me
 class Maham:
